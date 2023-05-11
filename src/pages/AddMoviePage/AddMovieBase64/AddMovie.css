@@ -1,0 +1,8 @@
+@media (max-width: 870px) {
+  .dis{
+    display: none;
+  }
+  .p{
+    color: white;
+  }
+}

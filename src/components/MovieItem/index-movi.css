@@ -1,0 +1,17 @@
+.img-fluid1{
+    height: 70vh;
+}
+.position-relative1{
+ width: 70%;
+ position: relative;
+ top: 15vh;
+ left: 15%;
+
+}
+@media screen and (max-width: 1200px) {
+	.row {
+        width: 70%;
+    }
+   
+
+}

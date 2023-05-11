@@ -1,0 +1,21 @@
+
+
+@media screen and (max-width: 1200px) {
+	.pb-2 {
+        padding: 5%;
+        padding-left: 10%;
+    }
+    .row {
+        width:100%;
+    }
+
+}
+@media screen and (max-width: 600px) {
+	.pb-2 {
+        padding: 20%;
+        padding-left: 30%;
+    }
+
+	
+
+}

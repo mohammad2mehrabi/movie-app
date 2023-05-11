@@ -1,0 +1,42 @@
+.btns button {
+	height: 40px;
+	width: 150px;
+	border-radius: 50px;
+	border: none;
+	font-size: 20px;
+	font-weight: 500;
+	padding: 0 10px;
+	cursor: pointer;
+	outline: none;
+	transition: all 0.3s ease;
+	background-image: linear-gradient(to right, #3f8cd6 , #38deec);
+	color: #000;
+}
+.btns button:hover {
+    border: 2px solid #3bbee3;
+    color: #38deec;
+    background: transparent;
+}
+
+.form-control{
+	border-radius: 50px;
+	height: 40px;
+	margin-left: 40px;
+}
+
+@media screen and (max-width: 900px) {
+
+	.ul{
+		background-color: #00000000;
+		height: auto;
+		text-align: center;
+	}
+	.form-control {
+		border-radius: 50px;
+		height: 40px;
+		margin-left: 0px;
+		width: 100%;
+	}
+	
+
+}
