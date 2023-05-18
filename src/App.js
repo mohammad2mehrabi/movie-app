@@ -1,9 +1,9 @@
 import React from 'react';
 import { Route, Routes, BrowserRouter, Navigate } from "react-router-dom";
 
-import LoginPage from './pages/LoginPage';
-import SignupPage from './pages/SignupPage';
-import Home from './pages/Home';
+import LoginPage from './pages/Login/LoginPage';
+import SignupPage from './pages/Regester/SignupPage';
+import Home from './pages/Home/Home';
 import MovieDetails from './pages/MovieDetails';
 import Genre from './pages/Genre';
 import NotFound from './components/NotFound'
